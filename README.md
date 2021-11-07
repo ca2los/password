@@ -1,5 +1,5 @@
 # Password Generator
-#### By Carlos Aguirre Oseguera
+##### By Carlos Aguirre Oseguera
 
 ## Generating a custom password
 [TRY IT HERE!](https://ca2los.github.io/password/)
